@@ -114,8 +114,8 @@ const techStacks = [
   { icon: "golang.svg", language: "Golang" },
   { icon: "jquery.svg", language: "Jquery" },
   { icon: "php.svg", language: "PHP" },
-  { icon: "postgres.svg", language: "Posgresql" },
-  { icon: "mysql.svg", language: "Mysql" },
+  { icon: "postgres.svg", language: "PostgreSQL" },
+  { icon: "mysql.svg", language: "MySQL" },
   { icon: "strapi1.svg", language: "Strapi" },
 ];
 
